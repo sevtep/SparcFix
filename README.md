@@ -1,2 +1,2 @@
 # SparcFix
-Fix Scene of Sparc Game
+This is the Fix Scene general project folder of Sparc Game.
